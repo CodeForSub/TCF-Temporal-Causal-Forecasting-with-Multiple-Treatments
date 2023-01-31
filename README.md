@@ -15,7 +15,10 @@ The model was implemented in Python 3.7. The following packages are needed for r
 ## Running and evaluating the model:
 
 TCFimt_main.py : main for start
+
 TCFimt_encoder_evaluate.py : training for encoder, especially balanced represetation
+
 TCFimt_decoder_evaluate.py : training for decoder
+
 TCFimt_model.py : model based on tensorflow==1.14.0
 
