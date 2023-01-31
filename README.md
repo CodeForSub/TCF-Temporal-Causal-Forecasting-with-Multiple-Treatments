@@ -1,5 +1,5 @@
 -*- coding: utf-8 -*-
-Copyright (c) 2022 xxx Inc. All Rights Reserved.
+Copyright (c) 2023 Inc. All Rights Reserved.
 
 We provide the code of TCF and the test demo of simulated data mentioned in the pdf.
 
