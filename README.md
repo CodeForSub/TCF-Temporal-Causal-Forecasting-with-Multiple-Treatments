@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Copyright (c) 2022 xxx Inc. All Rights Reserved.
 
-We provide the code of TCFimt and the test demo of simulated data mentioned in the Submission_4014.pdf.
+We provide the code of TCF and the test demo of simulated data mentioned in the pdf.
 
 ## Dependencies
 
